@@ -1,15 +1,17 @@
-
-📦 automatizateCalendarTeach/
- ┣ 📜 config.json          # Arquivo onde o usuário vai definir a grade e os textos 
- ┣ 📜 agendador.py         # O código em Python (Lógica) 
- ┣ 📜 requirements.txt     # Arquivo com as bibliotecas necessárias
- ┣ 📜 README.md            # Documentação bonita para o GitHub
- 
-
-
 # 📅 automatizateCalendarTeach
 
 Um bot em Python desenvolvido para automatizar o preenchimento maçante de reservas de aulas e laboratórios no Google Agenda (Google Appointments). Ideal para professores que precisam registrar dezenas de horários semanais com turmas, alunos, projetos e objetivos específicos.
+
+## 🗂️ Estrutura do Projeto
+
+\`\`\`text
+automatizateCalendarTeach/
+│
+├── config.json          # Arquivo onde o usuário vai definir a grade e os textos
+├── agendador.py         # O código em Python (Lógica principal)
+├── requirements.txt     # Arquivo com as bibliotecas necessárias
+└── README.md            # Documentação do projeto para o GitHub
+\`\`\`
 
 ## 🚀 Como funciona?
 O script se conecta a uma instância do Google Chrome já autenticada com a sua conta. Ele faz uma varredura visual no calendário da semana aberta, clica nos horários disponíveis, lê o dia da semana, cruza com a sua grade de horários configurada no arquivo JSON e injeta todos os dados no formulário automaticamente.
@@ -61,5 +63,5 @@ python agendador.py
 Sente-se, pegue um café e veja o robô trabalhar por você. ☕
 
 ---
-**Autor:** Eduardo Kazenski  
+**Autor:** Professor Eduardo Kazenski  
 Sinta-se livre para dar um *Fork* e contribuir com o projeto!
