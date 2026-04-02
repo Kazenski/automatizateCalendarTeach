@@ -1,0 +1,104 @@
+{
+    "EMAIL_PROFESSOR": "729145@profe.sed.sc.gov.br",
+    "GRADE": {
+        "SEG": {
+            "8:00pm": {
+                "disc": "Modelagem de Sistemas/UML",
+                "turma": "215-DS",
+                "alunos": "25",
+                "projeto": "Prática de Diagramas de Classe",
+                "objetivo": "Compreender e aplicar relacionamentos UML"
+            },
+            "8:40pm": {
+                "disc": "Modelagem de Sistemas/UML",
+                "turma": "215-DS",
+                "alunos": "25",
+                "projeto": "Desenvolvimento de Casos de Uso",
+                "objetivo": "Mapear requisitos do sistema"
+            },
+            "9:20pm": {
+                "disc": "Práticas em Desenvolvimento de Sistemas I",
+                "turma": "215-DS",
+                "alunos": "25",
+                "projeto": "Setup do Ambiente",
+                "objetivo": "Configurar IDE e repositórios"
+            }
+        },
+        "TER": {
+            "7:00pm": {
+                "disc": "Práticas em Desenvolvimento de Sistemas I",
+                "turma": "215-DS",
+                "alunos": "25",
+                "projeto": "Lógica de Programação Aplicada",
+                "objetivo": "Resolver algoritmos sequenciais"
+            },
+            "8:00pm": {
+                "disc": "Práticas em Desenvolvimento de Sistemas I",
+                "turma": "215-DS",
+                "alunos": "25",
+                "projeto": "Estruturas de Repetição",
+                "objetivo": "Aplicar laços for e while na prática"
+            },
+            "8:40pm": {
+                "disc": "Introdução a Banco de Dados",
+                "turma": "112-DS",
+                "alunos": "40",
+                "projeto": "Conceitos de MER e DER",
+                "objetivo": "Entender as entidades e atributos"
+            },
+            "9:20pm": {
+                "disc": "Introdução a Banco de Dados",
+                "turma": "112-DS",
+                "alunos": "40",
+                "projeto": "Modelagem Lógica",
+                "objetivo": "Converter modelo conceitual para lógico"
+            }
+        },
+        "QUA": {
+            "7:00pm": {
+                "disc": "Introdução a Banco de Dados",
+                "turma": "112-DS",
+                "alunos": "40",
+                "projeto": "Tipos de Dados",
+                "objetivo": "Diferenciar tipos numéricos e de texto em SGBDs"
+            },
+            "8:00pm": {
+                "disc": "Introdução à Programação",
+                "turma": "112-DS",
+                "alunos": "40",
+                "projeto": "Variáveis e Constantes",
+                "objetivo": "Declarar e utilizar variáveis em código"
+            },
+            "8:40pm": {
+                "disc": "Introdução à Programação",
+                "turma": "112-DS",
+                "alunos": "40",
+                "projeto": "Operadores Lógicos",
+                "objetivo": "Construir expressões com AND, OR e NOT"
+            }
+        },
+        "SEX": {
+            "7:00pm": {
+                "disc": "Linguagem SQL",
+                "turma": "215-DS",
+                "alunos": "25",
+                "projeto": "Comandos DDL",
+                "objetivo": "Criar tabelas usando CREATE TABLE"
+            },
+            "8:00pm": {
+                "disc": "Linguagem SQL",
+                "turma": "215-DS",
+                "alunos": "25",
+                "projeto": "Comandos DML",
+                "objetivo": "Inserir dados com comando INSERT"
+            },
+            "9:20pm": {
+                "disc": "Introdução à Programação",
+                "turma": "112-DS",
+                "alunos": "40",
+                "projeto": "Estruturas Condicionais",
+                "objetivo": "Aplicar IF e ELSE na resolução de problemas"
+            }
+        }
+    }
+}
