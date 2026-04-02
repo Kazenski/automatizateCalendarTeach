@@ -1,9 +1,9 @@
-automatizateCalendarTeach/
-│
-├── config.json          # Arquivo onde o usuário vai definir a grade e os textos
-├── agendador.py         # O código em Python (Lógica)
-├── requirements.txt     # Arquivo com as bibliotecas necessárias
-└── README.md            # Documentação bonita para o GitHub
+
+📦 automatizateCalendarTeach/
+ ┣ 📜 config.json          # Arquivo onde o usuário vai definir a grade e os textos   
+ ┣ 📜 agendador.py         # O código em Python (Lógica) 
+ ┣ 📜 requirements.txt     # Arquivo com as bibliotecas necessárias
+ ┣ 📜 README.md            # Documentação bonita para o GitHub
 
 
 # 📅 automatizateCalendarTeach
