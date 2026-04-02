@@ -4,14 +4,14 @@ Um bot em Python desenvolvido para automatizar o preenchimento maçante de reser
 
 ## 🗂️ Estrutura do Projeto
 
-\`\`\`text
+
 automatizateCalendarTeach/
 │
 ├── config.json          # Arquivo onde o usuário vai definir a grade e os textos
 ├── agendador.py         # O código em Python (Lógica principal)
 ├── requirements.txt     # Arquivo com as bibliotecas necessárias
 └── README.md            # Documentação do projeto para o GitHub
-\`\`\`
+
 
 ## 🚀 Como funciona?
 O script se conecta a uma instância do Google Chrome já autenticada com a sua conta. Ele faz uma varredura visual no calendário da semana aberta, clica nos horários disponíveis, lê o dia da semana, cruza com a sua grade de horários configurada no arquivo JSON e injeta todos os dados no formulário automaticamente.
