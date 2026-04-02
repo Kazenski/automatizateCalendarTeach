@@ -4,7 +4,6 @@ Um bot em Python desenvolvido para automatizar o preenchimento maçante de reser
 
 ## 🗂️ Estrutura do Projeto
 
-
 automatizateCalendarTeach/
 │
 ├── config.json          # Arquivo onde o usuário vai definir a grade e os textos
